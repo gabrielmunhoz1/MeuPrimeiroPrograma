@@ -19,6 +19,7 @@ public class Principal {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Saldação e Nome
 		System.out.println("Olá amigo!\nQual é o seu nome?"); // Uso do println
 
 		// Ler uma string do console usando a biblioteca Scanner.
